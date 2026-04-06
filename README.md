@@ -24,7 +24,7 @@ Findings from this analysis led to ten retention strategy recommendations coveri
 ## Dashboard
 Three page interactive Power BI dashboard covering Customer Overview, Churn Drivers and Services and Engagement. A benchmark reference line at 26.5% is applied across all churn rate charts to contextualise findings against the company average. Dashboard PDF available in repository.
 ## Article
-Full project write up published on Medium - link coming soon
+Full project write up published on Medium - [Link](https://medium.com/@balikisadetoyi75/telriva-telecom-customer-churn-analysis-and-retention-strategy-81b3a52b51ac)
 ## Limitations
 Data covers a single quarter,Q3 and may not reflect seasonal trends. Geographic analysis is limited to cities with 30 or more customers to ensure statistical reliability. All monetary values are in USD.
 ## Author
